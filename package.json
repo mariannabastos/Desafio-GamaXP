@@ -11,7 +11,7 @@
   "author": "Marianna Bastos",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.28.0",
+    "axios": "^0.30.0",
     "cors": "^2.8.5",
     "express": "^4.21.2",
     "mongodb": "^4.17.0",
